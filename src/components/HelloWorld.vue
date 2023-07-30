@@ -34,7 +34,7 @@ const toast = () => {
 
 <style>
 .m-2{
-  border: 1px solid #21ba45;
+  border: 1px solid #db2828;
 }
 .ep-button {
   margin: 4px;
